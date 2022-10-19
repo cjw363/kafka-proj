@@ -25,7 +25,7 @@
 		<gson.version>2.6</gson.version>
 		<protobuff.version>1.5.4</protobuff.version>
 		<spark.version>2.3.1</spark.version>
-		<jackson.version>2.9.4</jackson.version>
+		<jackson.version>2.13.4.1</jackson.version>
 	</properties>
 
 	<dependencies>
